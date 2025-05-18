@@ -1,6 +1,6 @@
 # Spaulding-Ridge-Employee-analysis-application
 Spaulding Ridge employee compensation application 
-This Power BI dashboard was developed as part of the Spaulding Ridge technical case study and is built upon a clean and structured data foundation prepared using SQL.
+This Power BI dashboard was developed as part of the Spaulding Ridge technical case study and is built upon a clean and structured data foundation prepared using SQL. To setup the application download the application.pbix file through raw and view it in the powerbi hope you would like it
 I used SQL for data preparation and PowerBI for creating the application
 Data Preparation Workflow
 1.	Data Import & Cleaning (SQL)
