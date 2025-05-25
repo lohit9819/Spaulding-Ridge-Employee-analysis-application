@@ -13,7 +13,8 @@ o	These tables were joined using a unique Employee ID to form a consolidated dat
 2.	Master Table Creation
 o	A final table named employee_master was created by joining the three source tables.
 o	This master table includes all relevant employee attributes, ratings, and industry compensation for use in Power BI.
-3.	Power BI Import
+3.Used python to merge all the table to create a final table with incremental analysis then exported as CSV and then imported into powerBi 
+4.	Power BI Import
 o	The table were exported to CSV and imported into Power BI for dashboard development.
 
 This Power BI dashboard application.pbix addresses the requirements of the Spaulding Ridge technical case study by providing interactive visualizations and tools that satisfy all four user stories, enabling business users to explore and analyze employee data efficiently.
